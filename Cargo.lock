@@ -204,7 +204,7 @@ dependencies = [
 
 [[package]]
 name = "hash"
-version = "0.1.4"
+version = "0.1.5"
 dependencies = [
  "base32",
  "base64 0.21.7",
